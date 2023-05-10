@@ -1,0 +1,17 @@
+International Journal on  (Sliding Mode Control : An approach to modify the dynamics of Non Linear System)
+ABSTRACT: The presence of uncertainties and disturbances in dynamic control system is a common problem to deal 
+with when considering real plants. The effect of these uncertainties on the system dynamics should be carefully taken 
+into account in the controller design. Considerable progresses have been attained in robust control techniques, such as 
+nonlinear adaptive control, model predictive control, back stepping, sliding model control and others. The Sliding 
+Mode Control (SMC) technique turns out to be characterized by high simplicity and robustness. Essentially, 
+discontinuous control laws are utilized by SMC to drive the system state trajectory onto a specified surface in the state 
+space, the so called sliding or switching surface. In order to achieve the control objective, the control input must be 
+designed to overcome the uncertainties and the disturbances acting on the system. The main advantages of this 
+approach are of two type, one while the system is on the sliding manifold it behaves as a reduced order system with 
+respect to the original plantandthe other one is dynamic of the system while in sliding mode is insensitive to model 
+uncertainties and disturbances. This work analyses a quite recent development of sliding mode control, namely the 
+second order sliding mode approach, which is unexpectedly face a growing attention in the control research community. 
+The objective of this project is to survey the theoretical background of sliding mode control, in particular higher order 
+sliding mode control, to show that the second order sliding mode approach is an effective solution.
+Certification Completion ID : V6104C628
+International Journal URL : https://drive.google.com/drive/folders/1GJcUz5cFliteNTYesh9XlaDFM_uwq4kj
